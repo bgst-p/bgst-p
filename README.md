@@ -1,6 +1,6 @@
 ### Hi, I'm bgst, Wellcome to my profile..
-Feel free to find what you'r lookin for here.. <br>
-See me more ->
+Feel free to find what you'r lookin for here..~~ <br>
+See me more -> https://bgst-p.github.io/
 
 <!--
 **bgst-p/bgst-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
